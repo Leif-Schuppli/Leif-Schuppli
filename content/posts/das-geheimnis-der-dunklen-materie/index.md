@@ -48,4 +48,6 @@ Als Prof. Dr. Piegsa uns dies fertig erklärt hat, wollen wir natürlich auch wi
 Er erzählt uns weiter, dass es extrem viele Kandidaten für Dunkle Materie gibt, und teilt uns zusätzlich ein Dossier aus, in dem alle verschiedenen Kandidaten aufgelistet sind. Wir blättern es durch, und sehen, dass es sehr viele gibt. Nun ist unser Besuch schon zu Ende, und wir verabschieden uns von ihm, ein Stück klüger als vorher. Was wir aber ganz klar mitbekommen haben, ist, dass niemand so genau weiß, was Dunkle Materie nun ist“.
 
 Die Suche nach Dunkler Materie geht weiter, und Wissenschaftler auf der ganzen Welt arbeiten hart daran, das Rätsel zu lösen. Obwohl es viele Ansätze gibt, sind wir noch weit davon entfernt, das endgültige Geheimnis zu lüften. Aber wir haben ein immer besseres Verständnis dafür, was Dunkle Materie sein könnte. Wer weiss, vielleicht wird die nächste Entdeckung das Universum für uns auf eine völlig neue Art und Weise öffnen.
+
+
 Zur Erklärung, wir haben natürlich keine Zeitmaschine gebaut, weswegen wir auch nicht wirklich ein Interview mit Archytas von Tarent führen konnten. Wir haben so viel wie möglich recherchiert und am Schluss die Lücken gefüllt und eine Geschichte erfunden.
