@@ -5,7 +5,7 @@ draft = false
 pinned = true
 description = ""
 +++
-**Die Suche nach der Dunklen Materie gehört zu den größten Rätseln der modernen Physik und Astronomie. Zahlreiche Beobachtungen legen die Existenz grosser Mengen an Dunkler Materie nahe, allerdings ist deren Natur noch gänzlich unbekannt. Experimente aller Art versuchen, den Teilchen der Dunklen Materie auf die Schliche zu kommen und dessen Zusammensetzung zu erkunden, doch bisher ohne grossen Erfolg. Einige von Ihnen werden jedoch in der kommenden Zeit die vielversprechendsten Teilchenmodelle überprüfen.** <<\newline>>
+**Die Suche nach der Dunklen Materie gehört zu den größten Rätseln der modernen Physik und Astronomie. Zahlreiche Beobachtungen legen die Existenz grosser Mengen an Dunkler Materie nahe, allerdings ist deren Natur noch gänzlich unbekannt. Experimente aller Art versuchen, den Teilchen der Dunklen Materie auf die Schliche zu kommen und dessen Zusammensetzung zu erkunden, doch bisher ohne grossen Erfolg. Einige von Ihnen werden jedoch in der kommenden Zeit die vielversprechendsten Teilchenmodelle überprüfen.** <\br>
 Von **Leif Schuppli und Theodor Scherler**
 
 Doch es existieren auch beinahe unendlich viele andere Fragen im Bereich der Astrophysik. Zum Beispiel hat sich jedes Kind schon einmal gefragt, was das Größte im Universum sei. Und wie groß das Universum sei. Beginnen wir doch mit der Beantwortung dieser Frage, sozusagen als Einstieg.
