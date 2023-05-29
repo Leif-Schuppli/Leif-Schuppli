@@ -23,6 +23,8 @@ Um das mal etwas abzukürzen, erklären wir es nun mit unseren eigenen Worten: A
 Wie auch im James Trefil in seinem Buch „Fünf Gründe, warum es die Welt nicht geben kann - Die Astrophysik der Dunklen Materie“, ein Buch, in dem die Theorie von Archytas von Tarent beschrieben worden ist, erwähnt: „Archytas und sein Speer bieten ein treffendes Bild für eine der größten Unternehmungen des menschlichen Geistes.“ Das Interview zieht sich hintenraus ganz schön in die Länge, da Archytas immer mehr in Fahrt gekommen ist und ganz begeistert erzählt, was er sich alles überlegt hat. Anfangs dachte ich, es würde schwer werden ihm zum Reden zu bringen, doch diese Sorgen sind verflogen. Er erzählte uns noch, dass es zum Teil ganze Monate gab, in denen er nicht vorangekommen ist. Doch wie er selbst sagt: „Das Schwerste ist nicht, was man beginnst, sondern das Beibehalten dessen, was man begonnen hat.“ Nach einer Dreiviertelstunde müssen wir aber sein Redeschwall unterbrechen, da wir alles haben, was wir brauchen und wir noch etwas zu tun haben. Alles in allem war es aber sehr aufschlussreich.
 
 **Die heutige Ansicht über die Größe des Universums**
+
+
 Da das vorherig beschriebene Gedankenexperiment nicht sonderlich professionell ist, und auch schon veraltet, gibt es hier noch ein Video, dass die heutige Sichtweise über das Universum aufzeigt.
 https://www.youtube.com/watch?v=BJroxik9kBg
 
