@@ -3,6 +3,7 @@ title = "Das Geheimnis der Dunklen Materie"
 date = "2023-05-28"
 draft = false
 pinned = true
+image = "universum-hubble.png"
 description = ""
 +++
 **Die Suche nach der Dunklen Materie gehört zu den größten Rätseln der modernen Physik und Astronomie. Zahlreiche Beobachtungen legen die Existenz grosser Mengen an Dunkler Materie nahe, allerdings ist deren Natur noch gänzlich unbekannt. Experimente aller Art versuchen, den Teilchen der Dunklen Materie auf die Schliche zu kommen und dessen Zusammensetzung zu erkunden, doch bisher ohne grossen Erfolg. Einige von ihnen werden jedoch in der kommenden Zeit die vielversprechendsten Teilchenmodelle überprüfen.**
