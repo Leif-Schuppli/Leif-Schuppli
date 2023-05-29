@@ -8,7 +8,7 @@ description = ""
 **Die Suche nach der Dunklen Materie gehört zu den größten Rätseln der modernen Physik und Astronomie. Zahlreiche Beobachtungen legen die Existenz grosser Mengen an Dunkler Materie nahe, allerdings ist deren Natur noch gänzlich unbekannt. Experimente aller Art versuchen, den Teilchen der Dunklen Materie auf die Schliche zu kommen und dessen Zusammensetzung zu erkunden, doch bisher ohne grossen Erfolg. Einige von ihnen werden jedoch in der kommenden Zeit die vielversprechendsten Teilchenmodelle überprüfen.** 
 Von **Leif Schuppli und Theodor Scherler**
 
-Doch es existieren auch beinahe unendlich viele andere Fragen im Bereich der Astrophysik. Zum Beispiel hat sich jedes Kind schon einmal gefragt, was das Größte im Universum sei. Und wie groß das Universum sei. Beginnen wir doch mit der Beantwortung dieser Frage, sozusagen als Einstieg.
+Die Frage nach dem Geheimnis der Dunklen Materie ist nur eine von vielen unbeantworteten Fragen im Bereich der Astrophysik. Zum Beispiel hat sich jedes Kind schon einmal gefragt, was das Grösste im Universum sei. Und wie gross denn das Universum überhaupt sei. Beginnen wir doch deshalb als Einstief mit der Beantwortung dieser Frage, wie gross das Universum ist. 
 
 
 
