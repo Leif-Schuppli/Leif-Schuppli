@@ -8,15 +8,13 @@ description = ""
 +++
 **Die Suche nach der Dunklen Materie gehört zu den größten Rätseln der modernen Physik und Astronomie. Zahlreiche Beobachtungen legen die Existenz grosser Mengen an Dunkler Materie nahe, allerdings ist deren Natur noch gänzlich unbekannt. Experimente aller Art versuchen, den Teilchen der Dunklen Materie auf die Schliche zu kommen und dessen Zusammensetzung zu erkunden, doch bisher ohne grossen Erfolg. Einige von ihnen werden jedoch in der kommenden Zeit die vielversprechendsten Teilchenmodelle überprüfen.**
 
-
 Von **Leif Schuppli und Theodor Scherler**
+
+![Das Universum durch ein Hubbleteleskop beobachtet.](universum-hubble.png)
 
 Die Frage nach dem Geheimnis der Dunklen Materie ist nur eine von vielen unbeantworteten Fragen im Bereich der Astrophysik. Zum Beispiel hat sich jedes Kind schon einmal gefragt, was das Größte im Universum sei. Und wie groß denn das Universum überhaupt sei. Beginnen wir doch deshalb als Einstief mit der Beantwortung dieser Frage, wie groß das Universum ist. 
 
-
-
 **Interview mit Archytas von Tarent**
-
 
 Wir sind in Apulien auf dem Weg zu Archytas von Tarent, einem bedeutenden Philosophen. Wir haben uns bei seinem Haus verabredet, um mit ihm über sein Gedankenexperiment zu reden. Wir eilen über die gepflasterte Straße und kommen langsam in die wohlhabende Gegend. Die Straße ist belebt und an jeder Ecke gibt es Händler die allerlei Dinge lauthals anpreisen. Doch wir sind schon spät dran und müssen uns ranhalten. Archytas ist ein stolzer Eigentümer eines stattlichen Anwesens mitten in der Stadt. Als wir dort ankommen und anklopfen, müssen wir eine Weile warten. Erst als wir ungeduldig einen zweiten Versuch wagen, hören wir drinnen hektische Bewegungen und unverständliches Gemurmel. Als dann die Tür ohne Vorwarnung aufschwingt, kommt uns gerade Platon entgegen, der offensichtlich von Archytas aus dem mächtigen Tor rausgescheucht wird. Wir begrüßen beide höflich und treten auf Archytas‘ Aufforderung ein. Archytas hat einen dunklen Teint und trägt einen Bart. Er ist schon etwas älter und hat viele Falten auf der Stirn. Drinnen ist es dämmerig, die Wände sind mit prachtvollen Wandteppichen ausgeschmückt. Wir gehen weiter, die Treppe hinauf, einen Korridor entlang, bis wir in das Büro von Archytas hereingeleitet werden. Das Zimmer ist heller als alle anderen, die wir bis jetzt gesehen haben, da es ein relativ großes Fenster hat, wodurch man in den Innenhof schauen kann. Der Innenhof ist sehr groß, ich schätze ihn auf etwa 25 Meter breit und lang. Es gibt zwei Wege, die sich in der Mitte treffen und ein Plus darstellen. Die Stelle, wo sich die Wege kreuzen, ist rund und ganz in der Mitte befindet sich ein Springbrunnen. In den vier Ecken sind viele grüne Pflanzen angepflanzt. Im Büro selbst stehen verschiedenste Apparaturen auf schweren Holztischen, deren Funktion ich nicht mal erraten könnte. Es scheint so, als ob unser Gastgeber in diesem Zimmer auch gleich seine Experimente durchführt und sie dann auf einem der Tische dokumentiert. Auf diesem Tisch sehen wir nämlich Feder, Tinten Glass und ein Pergament, auf dem schon wenige Zeilen Text stehen, doch wir können die offensichtlich in Hektik geschriebenen Buchstaben nicht lesen. Archytas bietet uns zwei Hocker an und setzt sich selbst auf den Holzstuhl hinter sein Bürotisch. 
 Archytas erzählt uns von seiner Idee. „Eines wunderschönen Tages, es war glaube ich letztes Jahr als man wieder Ernten konnte“, beginnt Archytas zu erzählen. „Ich saß also hier und bemerkte dachte über den Himmel nach. Niemand weiß, was sich dort befindet und was ich damals dachte, Niemand weiß, was sich dahinter befindet so begann ich nachzudenken. Und ich wollte herausfinden, ob es ein Ende gibt. Oder ob das Universum unendlich ist.“ Bei diesen Worten spricht er etwas leiser mit einer epischen Stimme, wir sind sofort gefesselt von seinen Worten und hören wie gebannt zu.
@@ -25,11 +23,14 @@ Wie auch im James Trefil in seinem Buch „Fünf Gründe, warum es die Welt nich
 
 **Die heutige Ansicht über die Größe des Universums**
 
-
 Da das vorherig beschriebene Gedankenexperiment nicht sonderlich professionell ist, und auch schon veraltet, gibt es hier noch ein Video, dass die heutige Sichtweise über das Universum aufzeigt.
 https://www.youtube.com/watch?v=BJroxik9kBg
 
 Nun wollen wir zusätzlich noch einige Worte mit unserem Interviewpartner aus der heutigen Zeit wechseln, um auch die modernen Ansichten zu dem Universum und besonders der Dunklen Materie zu erfahren. Deshalb fahren wir nun mit dem Tram zur Uni Bern, in der uns Prof. Dr. Florian Piegsa schon erwartet. Herr Piegsa ist Studienleiter von Physik und Astronomie. Wenn uns jemand einen kleinen Einblick in die Dunkle Materie gewähren kann, dann er. Draußen angekommen essen wir unseres Sandwichs und warten leicht angespannt auf unser Gespräch. Wir schauen das Gebäude an und erkunden es. Überall hat es Plakate über verschiedene Bereiche der Physik und Modelle von Satelliten und anderem. Als es schließlich Zeit wird, klopfen wir an seiner Türe. Er begrüßt uns herzlich und wir nehmen Platz. An den Wänden hängen jede Menge Papiere mit Formeln, die wir nicht verstehen. Wir fangen an zu fragen.
+
+![](foto-uni.jpg)
+
+![](foto-uni-cheops.jpg)
 
 **Hinweise auf Dunkle Materie**
 
@@ -44,10 +45,11 @@ Seine Entdeckung und Hypothese zur Dunklen Materie wurden zuerst von der wissens
 Leider hat man bis heute keine starken Beweise. Die ganze Theorie beruht nur auf diversen Beobachtungen. Trotzdem ist sie allgemein anerkannt, einfach aus dem Grund, dass viele Probleme erklärt werden könnten, falls es sie gibt.
 Aus Berechnungen geht die Vermutung hervor, dass die dunkle Materie bis zu 80% des Universums ausmacht, also 5-mal mehr ist, als die Materie, die wir sehen können.
 
+![](foto-piegsa.jpg)
+
 Als Prof. Dr. Piegsa uns dies fertig erklärt hat, wollen wir natürlich auch wissen, aus was die Dunkle Materie besteht. „Kann es sein, dass die Dunkle Materie nur ein neues Element im PSE ist?“, fragen wir ihn. „Nein, kein neues Element im PSE.“, erklärt er uns. Doch gibt es offenbar ein grundlegenderes PSE, das Standartmodell der Teilchenphysik, kurz SM. Darin enthalten sind die wirklich kleinsten Teilchen, aus denen alles zusammengesetzt ist. Er erzählt über Leptonen und Quarks, und über Familien, und alles gut verständlich. Diese Teilchen des SM kann man in diese Kategorien einordnen. Nun ist es möglich, dass die Dunkle Materie nur eine neue Familie ist, in der Spalte der Leptonen, dass man sie also sozusagen in unser SM einordnen kann. „Es ist aber auch möglich“, erwähnt er mahnend zum Schluss, „dass die Dunkle Materie komplett an einem anderen Ort ist, das sie überhaupt nichts mit unserem SM zu tun hat“.
 Er erzählt uns weiter, dass es extrem viele Kandidaten für Dunkle Materie gibt, und teilt uns zusätzlich ein Dossier aus, in dem alle verschiedenen Kandidaten aufgelistet sind. Wir blättern es durch, und sehen, dass es sehr viele gibt. Nun ist unser Besuch schon zu Ende, und wir verabschieden uns von ihm, ein Stück klüger als vorher. Was wir aber ganz klar mitbekommen haben, ist, dass niemand so genau weiß, was Dunkle Materie nun ist“.
 
 Die Suche nach Dunkler Materie geht weiter, und Wissenschaftler auf der ganzen Welt arbeiten hart daran, das Rätsel zu lösen. Obwohl es viele Ansätze gibt, sind wir noch weit davon entfernt, das endgültige Geheimnis zu lüften. Aber wir haben ein immer besseres Verständnis dafür, was Dunkle Materie sein könnte. Wer weiss, vielleicht wird die nächste Entdeckung das Universum für uns auf eine völlig neue Art und Weise öffnen.
-
 
 Zur Erklärung, wir haben natürlich keine Zeitmaschine gebaut, weswegen wir auch nicht wirklich ein Interview mit Archytas von Tarent führen konnten. Wir haben so viel wie möglich recherchiert und am Schluss die Lücken gefüllt und eine Geschichte erfunden.
